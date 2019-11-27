@@ -9,9 +9,8 @@ Permalink (20M): http://grouplens.org/datasets/movielens/20m/
 Permalink (Latest): http://grouplens.org/datasets/movielens/latest/
 
 # Clustering : 
-K-means 
-[![Contributors][contributors-shield]]
-
+####  K-means 
+Anything else that seems useful
 # Linear Regression : 
 To predict movie's rating from Categories
 # Perceptron - KNN

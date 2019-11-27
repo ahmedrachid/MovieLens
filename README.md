@@ -14,10 +14,10 @@ K-means
 To predict movie's rating from Categories
 # Perceptron - KNN
 # Libraries : 
-* [Python]
-* [Numpy]
-* [Pandas]
-* [Scikit-learn]
+* [Python](https://www.python.org/)
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Scikit-learn](https://scikit-learn.org/stable/)
 
 
 You can find a poster which explains the different method used in our project.

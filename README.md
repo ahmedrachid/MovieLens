@@ -7,3 +7,13 @@ The MovieLens movie ratings data is provided by GroupLens Research in datasets r
 Permalink (20M): http://grouplens.org/datasets/movielens/20m/
 
 Permalink (Latest): http://grouplens.org/datasets/movielens/latest/
+
+# Clustering : 
+K-means 
+# Linear Regression : 
+To predict movie's rating from Categories
+# Perceptron - KNN
+
+You can find a poster which explains the different method used in our project.
+
+Don't forget to leave a star if you find it helpful :)

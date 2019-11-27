@@ -10,10 +10,11 @@ Permalink (Latest): http://grouplens.org/datasets/movielens/latest/
 
 # Clustering : 
 ####  K-means 
-Anything else that seems useful
+
 # Linear Regression : 
 To predict movie's rating from Categories
 # Perceptron - KNN
+
 # Libraries : 
 * [Python](https://www.python.org/)
 * [Numpy](https://numpy.org/)

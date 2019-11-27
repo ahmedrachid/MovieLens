@@ -13,6 +13,12 @@ K-means
 # Linear Regression : 
 To predict movie's rating from Categories
 # Perceptron - KNN
+# Libraries : 
+  Python
+  Numpy 
+  Pandas
+  Scikit-learn
+
 
 You can find a poster which explains the different method used in our project.
 

@@ -1,5 +1,5 @@
 # MovieLens
-MovieLens Machine Learning Project
+MovieLens Machine Learning Project - 3I026
 
 # Datasets : 
 The MovieLens movie ratings data is provided by GroupLens Research in datasets ranging in size from 100K to 20 million. There is a "Latest" dataset that includes more recent ratings data up to 2016. Our team chose to use the stable 20 million (MovieLens 20M) count dataset and the Latest dataset.

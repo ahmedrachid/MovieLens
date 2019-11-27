@@ -9,7 +9,7 @@ Permalink (20M): http://grouplens.org/datasets/movielens/20m/
 Permalink (Latest): http://grouplens.org/datasets/movielens/latest/
 
 # Clustering : 
-####  K-means 
+* ####  K-means 
 
 # Linear Regression : 
 To predict movie's rating from Categories
